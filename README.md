@@ -202,3 +202,12 @@ Here are 20 project ideas for deep learning:
 
 These project ideas cover a wide range of modern and interesting applications that can be implemented using deep learning techniques. Choose the one that intrigues you the most and embark on your deep learning project!
 
+# Late Policy
+
+- Project late policy : not allowed.
+- Homework late policy : 1st day 90% of the original grade, second day 80% of the orignal grade, third day 70 percent of the orignal date. After 72 hours of the original due date, submissions will get 0 of the original grade.
+
+  # Ref
+  - Deep Learning : https://www.bishopbook.com/
+  - Mathematics for machine learning https://mml-book.github.io/book/mml-book.pdf
+  - Large Language Models [amazon](https://www.amazon.com/dp/1633437167/ref=sspa_dk_detail_9?psc=1&pf_rd_p=8c2f9165-8e93-42a1-8313-73d3809141a2&pf_rd_r=A19BQ82ECVAEWT1SRXPV&pd_rd_wg=FBKBi&pd_rd_w=0AB8n&content-id=amzn1.sym.8c2f9165-8e93-42a1-8313-73d3809141a2&pd_rd_r=51dd7f9c-e1bc-4d35-9979-5f3310ab3aca&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
