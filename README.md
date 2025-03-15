@@ -7,7 +7,7 @@ clouds , graphs, and 3D shapes.
 
 
 This course introduces the student to a range of topics and concepts in deep learning including
-the foundation neural networks, most common neural network architectures such as MLP, convolutional neural networks, and recurrent neural networks to name a few. We will also go over advanced topics such as generative models, geometric deep learning and graph neural networks.
+the foundation neural networks, most common neural network architectures such as MLP, convolutional neural networks, trasformers and recurrent neural networks to name a few. We we also go over a few advanced topoics such as probabilistic/topological/geometric deep learning and graph neural networks.
 The course covers a practical aspects of deep learning and students get to learn how to use pytroch
 for creation/training/ineference of various networks. Intuition, mathematical notions as well as the
 practical aspects are all emphasized throughout the course and by the end of the course the student
