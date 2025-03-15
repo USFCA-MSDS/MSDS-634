@@ -99,6 +99,7 @@ Note material Additional does not optional. These are material that will not be 
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
   * [Let's build the GPT Tokenizer by Andrej Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
   * Lecture 7 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
+  * LLMs from unsupervised learning to RLHF [article](https://huyenchip.com/2023/05/02/rlhf.html)   
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
   * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
@@ -109,7 +110,7 @@ Note material Additional does not optional. These are material that will not be 
    * Minimal graph attention network [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_graph_attention_network.ipynb)
    * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
  * Day 9
-   * Lecture 12 [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.pdf)
+   * Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.pdf)
    *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DDQN.ipynb)  
    *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
    *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
