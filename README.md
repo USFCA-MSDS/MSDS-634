@@ -27,7 +27,7 @@ Note material Additional does not optional. These are material that will not be 
   * Review2 [Probability for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_Probability_in_Python.ipynb) (notebook)
   * Review3 [Some basic math concepts](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MathBackground-.pdf)
   * Review4  [MLE](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MaxLike%20Estimation_MLE.pdf)
-  * Lecture 1 Slide [An introduction to NNs](https://github.com/USFCA-MSDS/MSDS-634/blob/main/PDFs/An%20Introduction%20to%20NNs-%20(4).pdf)
+  * Lecture 1 Slide [An introduction to NNs](https://github.com/USFCA-MSDS/MSDS-634/blob/main/PDFs/An%20Introduction%20to%20NNs_.pdf)
   * Fundamental algorithm [The gradient descent](https://github.com/USFCA-MSDS/MSDS-631/blob/main/the_gradient_descent_algorithm.ipynb) (notebook)
   * Pytorch [Introduction to Pytorch](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pytorch-.ipynb) (notebook)
   * A visual introduction to NN [playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.93552&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
