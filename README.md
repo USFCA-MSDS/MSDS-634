@@ -44,7 +44,7 @@ Note material Additional does not optional. These are material that will not be 
   * Why function composition is useful in DL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Why_composition_of_functions_is_useful_in_DL.ipynb)
   * Functions describe the world : [YouTube](https://www.youtube.com/watch?v=TkwXa7Cvfr8&t=87s)
   * Why neural networks can learn anything? [Youtube](https://www.youtube.com/watch?v=0QczhVg5HaI) 
-  * The universal approximation theorem for neural network [visual](https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/)
+  * The universal approximation theorem for neural network [visual](http://neuralnetworksanddeeplearning.com/chap4.html)
   * A video illustration of the universal approximation theorem of NNs [Youtube](https://www.youtube.com/watch?v=FBpPjjhJGhk)
   * A minimal introduction to automatic differentiation [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_auto_diff_in_pytorch.ipynb)
 * Day 3:
