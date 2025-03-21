@@ -39,7 +39,7 @@ Note material Additional does not optional. These are material that will not be 
   * Additional : Stochastic Gradient Decent [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Stochastic_Dradient_Descent.ipynb)
   * Interview Questions [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Some_interview_Questions_related_to_lecture_1.ipynb)
 * Day 2:
-  * Lecture 2 Slide [Neural Network as a classifier, backprop and universaltity of NN](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Lecture_2.pdf)
+  * Lecture 2 Slide [Neural Network as a classifier, backprop and universaltity of NN](https://github.com/USFCA-MSDS/MSDS-634/blob/main/Lecture_2_.pdf)
   * An illustration of the sigmoid function [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/sigmoid_and_binary_classification.ipynb)
   * Why function composition is useful in DL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Why_composition_of_functions_is_useful_in_DL.ipynb)
   * Functions describe the world : [YouTube](https://www.youtube.com/watch?v=TkwXa7Cvfr8&t=87s)
