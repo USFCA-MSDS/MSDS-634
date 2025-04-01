@@ -93,6 +93,7 @@ Note material Additional does not optional. These are material that will not be 
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
   * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
+  * DeepSeek [Video](https://www.youtube.com/watch?app=desktop&v=H20Hd6Xb7Qo)
   
  * Day 8
    * Graph Neural Networks (GNNs) Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GNN.pdf)
