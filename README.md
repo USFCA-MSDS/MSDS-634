@@ -128,7 +128,7 @@ In class quizes. [Review questions for the quiz](https://github.com/USFCA-MSDS/M
       * [Video1](https://www.youtube.com/watch?v=ftc7rj7kzQ0&t=1s)
       * [Video2](https://www.youtube.com/watch?v=vVaRhZXovbw)
   * **(B) Word2Vec**
-    * Notebook: [Word2Vec](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW3_2025.ipynb)
+    * Notebook: [Word2Vec](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW_word2vec.ipynb)
 
 
 
