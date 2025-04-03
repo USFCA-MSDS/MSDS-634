@@ -122,7 +122,7 @@ In class quizes. [Review questions for the quiz](https://github.com/USFCA-MSDS/M
 * [HW1](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1.ipynb)
 * [HW2](https://github.com/USFCA-MSDS/MSDS-634/blob/main/Image_segmentation_with_ConvNext.ipynb)
   - ConvNext[Code](https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py) [Video1](https://www.youtube.com/watch?v=ftc7rj7kzQ0&t=1s) [Video2](https://www.youtube.com/watch?v=vVaRhZXovbw)  
-* [HW3](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2.ipynb)
+* [HW3](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW3_2025.ipynb)
 * [HW4](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW4.ipynb)  
 
 
