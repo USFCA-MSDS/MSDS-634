@@ -119,7 +119,7 @@ In class quizes. [Review questions for the quiz](https://github.com/USFCA-MSDS/M
 
 # HWs (Total 40 %)
 
-* [HW1](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1.ipynb)
+* [HW1](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW_CNN_introduction.ipynb)
 * **HW2:** Pick one of the following two options for your submission to HW2 (you are required to submit only one option A OR B):
   * **(A) ConvNext**
     * Notebook: [ConvNext](https://github.com/USFCA-MSDS/MSDS-634/blob/main/Image_segmentation_with_ConvNext.ipynb)
