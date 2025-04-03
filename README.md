@@ -120,10 +120,17 @@ In class quizes. [Review questions for the quiz](https://github.com/USFCA-MSDS/M
 # HWs (Total 40 %)
 
 * [HW1](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1.ipynb)
-* [HW2](https://github.com/USFCA-MSDS/MSDS-634/blob/main/Image_segmentation_with_ConvNext.ipynb)
-  - ConvNext[Code](https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py) [Video1](https://www.youtube.com/watch?v=ftc7rj7kzQ0&t=1s) [Video2](https://www.youtube.com/watch?v=vVaRhZXovbw)  
-* [HW3](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW3_2025.ipynb)
-* [HW4](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW4.ipynb)  
+* **HW2:** Pick one of the following two options:
+  * **(A) ConvNext**
+    * Notebook: [ConvNext](https://github.com/USFCA-MSDS/MSDS-634/blob/main/Image_segmentation_with_ConvNext.ipynb)
+    * Helpers:
+      * [ConvNext Code](https://github.com/facebookresearch/ConvNeXt/blob/main/models/convnext.py)
+      * [Video1](https://www.youtube.com/watch?v=ftc7rj7kzQ0&t=1s)
+      * [Video2](https://www.youtube.com/watch?v=vVaRhZXovbw)
+  * **(B) Word2Vec**
+    * Notebook: [Word2Vec](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW3_2025.ipynb)
+
+
 
 
 # Final Project (Total 50%)
