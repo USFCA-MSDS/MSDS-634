@@ -70,6 +70,7 @@ Note material Additional does not optional. These are material that will not be 
   *  Lecture 5 Introduction to Language Models [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_language_models.pdf)
   *  Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec_simplified.ipynb)
   *  Gensim Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/gensim_word2vec.ipynb)
+  *  n-gram model [notebook](https://github.com/USFCA-MSDS/MSDS-634/blob/main/n_gram_model.ipynb)
   *  Very Simple Language Model [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/simple_language-model.ipynb)
   *  Minimal RNN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_RNN_.ipynb)
   *  Interview Questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview_questions_day5)
