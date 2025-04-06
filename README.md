@@ -132,6 +132,7 @@ In class quizes. [Review questions for the quiz](https://github.com/USFCA-MSDS/M
     * Notebook: [Word2Vec](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW_word2vec.ipynb)
 
 * **HW3:** [HW3](https://github.com/USFCA-MSDS/MSDS-634/blob/main/advanced_word2vec.ipynb)
+* **HW4:** [HW4](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW_transformers.ipynb)
 
 
 
