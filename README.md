@@ -131,7 +131,8 @@ In class quizes. [Review questions for the quiz](https://github.com/USFCA-MSDS/M
   * **(B) Word2Vec**
     * Notebook: [Word2Vec](https://github.com/USFCA-MSDS/MSDS-634/blob/main/HW_word2vec.ipynb)
 
-   
+* **HW3:** [HW3](https://github.com/USFCA-MSDS/MSDS-634/blob/main/advanced_word2vec.ipynb)
+
 
 
 # Final Project (Total 50%)
