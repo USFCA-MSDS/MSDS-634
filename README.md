@@ -93,7 +93,7 @@ Note material Additional does not optional. These are material that will not be 
   * Lecture 7 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
   * LLMs from unsupervised learning to RLHF [article](https://huyenchip.com/2023/05/02/rlhf.html)   
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
-  * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
+  * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb) [helper notebook: tril and mask](https://github.com/USFCA-MSDS/MSDS-634/blob/main/explain_masked_fill_and_tril.ipynb)
   * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
   * DeepSeek [Video1](https://www.youtube.com/watch?app=desktop&v=H20Hd6Xb7Qo) [Video2](https://www.youtube.com/watch?v=0VLAoVGf_74)
   
