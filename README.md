@@ -91,6 +91,7 @@ Note material Additional does not optional. These are material that will not be 
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
   * [Let's build the GPT Tokenizer by Andrej Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
   * Lecture 7 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
+  * [Reward Model](https://github.com/USFCA-MSDS/MSDS-634/blob/main/RewardModel.ipynb)
   * LLMs from unsupervised learning to RLHF [article](https://huyenchip.com/2023/05/02/rlhf.html)   
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb) [helper notebook: tril and mask](https://github.com/USFCA-MSDS/MSDS-634/blob/main/explain_masked_fill_and_tril.ipynb)
