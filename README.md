@@ -92,6 +92,7 @@ Note material Additional does not optional. These are material that will not be 
    *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-634/blob/main/DQL_notebook.ipynb)  
    *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
    *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
+   *  Introduction to OpenAI gym [URL](https://www.digitalocean.com/community/tutorials/getting-started-with-openai-gym)
 
 * Day 8:
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
