@@ -87,7 +87,13 @@ Note material Additional does not optional. These are material that will not be 
   * [Lilian Weng blog article about attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
   * [Positional Encoder](https://www.youtube.com/watch?v=1biZfFLPRSY&list=PLpZBeKTZRGPOQtbCIES_0hAvwukcs-y-x)
 
-* Day 7:
+ * Day 7
+   * Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.pdf)
+   *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-634/blob/main/DQL_notebook.ipynb)  
+   *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
+   *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
+
+* Day 8:
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
   * [Let's build the GPT Tokenizer by Andrej Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
   * Lecture 7 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
@@ -98,16 +104,11 @@ Note material Additional does not optional. These are material that will not be 
   * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
   * DeepSeek [Video1](https://www.youtube.com/watch?app=desktop&v=H20Hd6Xb7Qo) [Video2](https://www.youtube.com/watch?v=0VLAoVGf_74)
   
- * Day 8
+ * Day 9
    * Graph Neural Networks (GNNs) Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GNN.pdf)
    * Minimal GCN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/miniml_GCN.ipynb)
    * Minimal graph attention network [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_graph_attention_network.ipynb)
    * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
- * Day 9
-   * Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.pdf)
-   *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DDQN.ipynb)  
-   *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
-   *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
    
  
 Additional
