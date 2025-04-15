@@ -88,7 +88,7 @@ Note material Additional does not optional. These are material that will not be 
   * [Positional Encoder](https://www.youtube.com/watch?v=1biZfFLPRSY&list=PLpZBeKTZRGPOQtbCIES_0hAvwukcs-y-x)
 
  * Day 7
-   * Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.pdf)
+   * Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-634/blob/main/12DQN.pdf)
    *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-634/blob/main/DQL_notebook.ipynb)  
    *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
    *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
