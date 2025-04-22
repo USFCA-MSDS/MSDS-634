@@ -103,6 +103,7 @@ Note material Additional does not optional. These are material that will not be 
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb) [helper notebook: tril and mask](https://github.com/USFCA-MSDS/MSDS-634/blob/main/explain_masked_fill_and_tril.ipynb)
   * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
+  * RLHF [lecture](https://github.com/USFCA-MSDS/MSDS-634/blob/main/RLHF.pdf)
   * DeepSeek [Video1](https://www.youtube.com/watch?app=desktop&v=H20Hd6Xb7Qo) [Video2](https://www.youtube.com/watch?v=0VLAoVGf_74)
   
  * Day 9
